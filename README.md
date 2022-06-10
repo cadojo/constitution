@@ -35,4 +35,4 @@ _The Constitution of the United States of America._
 
 
 - [https://constitution.congress.gov](https://constitution.congress.gov)
-- [https://www.senate.gov/civics/constitution_item/constitution.htm#preamble](https://www.senate.gov/civics/constitution_item/constitution.htm#preamble)
+- [https://www.senate.gov/civics/constitution_item/constitution.htm](https://www.senate.gov/civics/constitution_item/constitution.htm)

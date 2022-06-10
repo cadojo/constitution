@@ -1,6 +1,7 @@
 # Constitution
 _The Constitution of the United States of America._
 
+
 > **Note**
 > 
 > I want to interact with the Constitution in the format I'm most familar with.
@@ -18,10 +19,10 @@ _The Constitution of the United States of America._
 > think through technical ideas within scientific computing. Why wouldn't
 > this format serve my understanding of ideas relating to my home, and the
 >  home of so many who I love?
->
-> – Joe
+
 
 ## References
+
 
 > **Warning**
 >
@@ -31,6 +32,7 @@ _The Constitution of the United States of America._
 > altered by ammendments throughout American history. These chages are **not**
 > reflected here. The Constitution of the United States of America is copied
 > and pasted in this repository as it existed at the time of writing.
+
 
 - [https://constitution.congress.gov](https://constitution.congress.gov)
 - [https://www.senate.gov/civics/constitution_item/constitution.htm#preamble](https://www.senate.gov/civics/constitution_item/constitution.htm#preamble)
